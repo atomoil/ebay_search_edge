@@ -1,0 +1,24 @@
+{
+  "name": "ebay_search_edge",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomoil@github.com/atomoil/ebay_search_edge.git"
+  },
+  "author": "atom oil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomoil/ebay_search_edge/issues"
+  },
+  "homepage": "https://github.com/atomoil/ebay_search_edge#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ebay-node-api": "^2.8.4"
+  }
+}
